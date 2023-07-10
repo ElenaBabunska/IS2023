@@ -1,0 +1,17 @@
+C:\Users\Win10\Desktop\193089\193089.Service\bin\Debug\net7.0\193089.Service.deps.json
+C:\Users\Win10\Desktop\193089\193089.Service\bin\Debug\net7.0\193089.Service.dll
+C:\Users\Win10\Desktop\193089\193089.Service\bin\Debug\net7.0\193089.Service.pdb
+C:\Users\Win10\Desktop\193089\193089.Service\bin\Debug\net7.0\193089.Domain.dll
+C:\Users\Win10\Desktop\193089\193089.Service\bin\Debug\net7.0\193089.Repository.dll
+C:\Users\Win10\Desktop\193089\193089.Service\bin\Debug\net7.0\193089.Domain.pdb
+C:\Users\Win10\Desktop\193089\193089.Service\bin\Debug\net7.0\193089.Repository.pdb
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.AssemblyInfo.cs
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.csproj.CopyComplete
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.dll
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\refint\193089.Service.dll
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\193089.Service.pdb
+C:\Users\Win10\Desktop\193089\193089.Service\obj\Debug\net7.0\ref\193089.Service.dll
